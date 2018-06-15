@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8a9fd0e50b85084fb98a48d5d3c0f5fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8526048f2150e15ea61ebe4005d02960/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/149da3af64436ad69c011cb74361a2ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b3042bedb32ffc98353437964bd2fcd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6f07dd340b717a1d8c924f5872e612b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4c167b464cc44b3475d8e546325f19e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/24465b7674ed8ab74035df8f420a7fe0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ed8d8a5d6b09bbf0419cba1a53a09b3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a603663a75a3971c9d7c8b8d1dd3d3b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5e85b94fd3e8fd538ae3aceda354c9d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b78e5e64e10e6b21490e3007444afe5d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d677c5e66f3d8abc5f0a57e0e023823e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8526048f2150e15ea61ebe4005d02960/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8526048f2150e15ea61ebe4005d02960/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.nicholas.beyondgbv.MainActivity
+ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8a9fd0e50b85084fb98a48d5d3c0f5fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8a9fd0e50b85084fb98a48d5d3c0f5fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8526048f2150e15ea61ebe4005d02960/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8526048f2150e15ea61ebe4005d02960/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/149da3af64436ad69c011cb74361a2ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/149da3af64436ad69c011cb74361a2ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b3042bedb32ffc98353437964bd2fcd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b3042bedb32ffc98353437964bd2fcd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6f07dd340b717a1d8c924f5872e612b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6f07dd340b717a1d8c924f5872e612b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4c167b464cc44b3475d8e546325f19e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4c167b464cc44b3475d8e546325f19e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/24465b7674ed8ab74035df8f420a7fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/24465b7674ed8ab74035df8f420a7fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ed8d8a5d6b09bbf0419cba1a53a09b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ed8d8a5d6b09bbf0419cba1a53a09b3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a603663a75a3971c9d7c8b8d1dd3d3b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a603663a75a3971c9d7c8b8d1dd3d3b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5e85b94fd3e8fd538ae3aceda354c9d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5e85b94fd3e8fd538ae3aceda354c9d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b78e5e64e10e6b21490e3007444afe5d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b78e5e64e10e6b21490e3007444afe5d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d677c5e66f3d8abc5f0a57e0e023823e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d677c5e66f3d8abc5f0a57e0e023823e/AndroidManifest.xml:20:5-44
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
