@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< Updated upstream
 ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-27:12
@@ -19,11 +20,33 @@ MERGED from [android.arch.core:runtime:1.1.0] /home/nicholas/.gradle/caches/tran
 INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-27:12
+=======
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\615ca291a31dbf403f6638c276f7a19f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c1c5d3b03215361b121ac0f318df915\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fb171c63cda221121caf8d46c1ef944f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ca850cb7676c1203ec947bfce8becf82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5350137a49721868bfb71d782e01fe5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9f71b6b6bab0e7cb715ac0b4cc8b8bb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ecf70bd3c82d9d8edf90257e13fca0fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\aee1d784c22d81806fb25e1d90433d1c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a4d7c45725b11f6e48432b1c9271d2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\48ec45b94bbdea30004a1f2d2293b36a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9362e29dce790faab25afb360e3bccac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef4a42a52a3ff4a7b6c1cb4c9411f02f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+>>>>>>> Stashed changes
 	package
-		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:3:5-45
-		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
 	android:versionName
+<<<<<<< Updated upstream
 		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
 		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:2:1-27:12
 		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
@@ -79,41 +102,82 @@ ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
 		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:24:13-55
 	android:name
 		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml:23:19-43
+=======
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c1c5d3b03215361b121ac0f318df915\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c1c5d3b03215361b121ac0f318df915\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.nicholas.beyondgbv.MainActivity
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml:16:27-74
+>>>>>>> Stashed changes
 uses-sdk
-INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
-INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8a9fd0e50b85084fb98a48d5d3c0f5fb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8a9fd0e50b85084fb98a48d5d3c0f5fb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8526048f2150e15ea61ebe4005d02960/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8526048f2150e15ea61ebe4005d02960/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/149da3af64436ad69c011cb74361a2ea/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/149da3af64436ad69c011cb74361a2ea/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b3042bedb32ffc98353437964bd2fcd0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b3042bedb32ffc98353437964bd2fcd0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6f07dd340b717a1d8c924f5872e612b5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6f07dd340b717a1d8c924f5872e612b5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4c167b464cc44b3475d8e546325f19e5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4c167b464cc44b3475d8e546325f19e5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/24465b7674ed8ab74035df8f420a7fe0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/24465b7674ed8ab74035df8f420a7fe0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ed8d8a5d6b09bbf0419cba1a53a09b3e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ed8d8a5d6b09bbf0419cba1a53a09b3e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a603663a75a3971c9d7c8b8d1dd3d3b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8a603663a75a3971c9d7c8b8d1dd3d3b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5e85b94fd3e8fd538ae3aceda354c9d1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5e85b94fd3e8fd538ae3aceda354c9d1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b78e5e64e10e6b21490e3007444afe5d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b78e5e64e10e6b21490e3007444afe5d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d677c5e66f3d8abc5f0a57e0e023823e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d677c5e66f3d8abc5f0a57e0e023823e/AndroidManifest.xml:20:5-44
-INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
-INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\615ca291a31dbf403f6638c276f7a19f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\615ca291a31dbf403f6638c276f7a19f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c1c5d3b03215361b121ac0f318df915\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c1c5d3b03215361b121ac0f318df915\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fb171c63cda221121caf8d46c1ef944f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fb171c63cda221121caf8d46c1ef944f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ca850cb7676c1203ec947bfce8becf82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ca850cb7676c1203ec947bfce8becf82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5350137a49721868bfb71d782e01fe5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5350137a49721868bfb71d782e01fe5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9f71b6b6bab0e7cb715ac0b4cc8b8bb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9f71b6b6bab0e7cb715ac0b4cc8b8bb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ecf70bd3c82d9d8edf90257e13fca0fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ecf70bd3c82d9d8edf90257e13fca0fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\aee1d784c22d81806fb25e1d90433d1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\aee1d784c22d81806fb25e1d90433d1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a4d7c45725b11f6e48432b1c9271d2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a4d7c45725b11f6e48432b1c9271d2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\48ec45b94bbdea30004a1f2d2293b36a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\48ec45b94bbdea30004a1f2d2293b36a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9362e29dce790faab25afb360e3bccac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9362e29dce790faab25afb360e3bccac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef4a42a52a3ff4a7b6c1cb4c9411f02f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SAWE PETER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ef4a42a52a3ff4a7b6c1cb4c9411f02f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
-		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
-		ADDED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nicholas/Desktop/Beyond/Beyond/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\Beyond-GBV\app\src\main\AndroidManifest.xml

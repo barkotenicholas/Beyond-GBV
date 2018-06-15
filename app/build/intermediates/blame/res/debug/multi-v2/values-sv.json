@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nicholas/Desktop/Beyond/Beyond/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "outputFile": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\Beyond-GBV\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
-                    "source": "/home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ed8d8a5d6b09bbf0419cba1a53a09b3e/res/values-sv/values-sv.xml",
+                    "source": "C:\\Users\\SAWE PETER\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\aee1d784c22d81806fb25e1d90433d1c\\res\\values-sv\\values-sv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8a9fd0e50b85084fb98a48d5d3c0f5fb/res/values-sv/values-sv.xml",
+                    "source": "C:\\Users\\SAWE PETER\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\615ca291a31dbf403f6638c276f7a19f\\res\\values-sv\\values-sv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
